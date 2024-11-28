@@ -44,8 +44,13 @@
   ],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex",
+      "name": "Creation of a Pokedex",
       "url": "https://github.com/IsmaelFLCarvalho/bootcampJavaScript/tree/main/Pokedex",
+      "github": true
+    }
+    {
+      "name": "My Portfolio",
+      "url": "https://github.com/IsmaelFLCarvalho/portfolio",
       "github": true
     }
   ],
